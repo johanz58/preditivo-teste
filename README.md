@@ -1,21 +1,27 @@
-# Estudo de caso: Manutenção preditiva em motores
+## Estudo de caso: Manutenção preditiva em motores
 Autor: Wilmer Lobato
 
-# Clonagem do repositório Público
-git clone https://github.com/johanz58/preditivo-teste.git
-# Pacote necessários
-
-Primeiramente, os seguintes pacotes são necessários
+### 1) Clonagem do repositório
+Faça a clonagem do repositório público disponibilizado usando:
 
 ```bash
-pip install tensorflow numpy
+git clone htttps://github.com/johanz58/preditivo-teste.git
+```
+
+
+# Pacote necessários
+
+Algumas bibliotecas devem ser instaladas previamente:
+
+```bash
+pip install gdown tensorflow numpy
 ```
 
 # Notebooks disponíveis
 
-Na pasta notebooks, os seguintes arquivos estão disponĩveis
+Execute os seguintes notebooks:
 
-ntbk-01-anaise_dados.ipynb
-ntbk-02-preprocessamento.ipynb
-ntbk-03-rede_LSTM.ipynb
-ntbk-04-desempenho.ipynb
+1. ntbk-01-analise_dados.ipynb
+2. ntbk-02-preprocessamento.ipynb
+3. ntbk-03-rede_LSTM.ipynb
+4. ntbk-04-desempenho.ipynb
