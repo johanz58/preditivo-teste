@@ -9,7 +9,7 @@ git clone htttps://github.com/johanz58/preditivo-teste.git
 ```
 
 
-# Pacote necessários
+### 2) Instalação de bibliotecas necessárias
 
 Algumas bibliotecas devem ser instaladas previamente:
 
@@ -17,7 +17,7 @@ Algumas bibliotecas devem ser instaladas previamente:
 pip install gdown tensorflow numpy
 ```
 
-# Notebooks disponíveis
+### 3) Notebooks disponíveis
 
 Execute os seguintes notebooks:
 
